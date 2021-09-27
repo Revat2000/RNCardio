@@ -1,1 +1,1 @@
-export * from './PathAnimation'
+export * from './EKGAnimation'
